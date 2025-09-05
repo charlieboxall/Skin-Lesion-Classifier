@@ -1,3 +1,6 @@
+data/raw/skin-cancer-mnist-ham10000/HAM10000_images_part_1
+data/raw/skin-cancer-mnist-ham10000/HAM10000_images_part_2
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
